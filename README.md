@@ -16,3 +16,4 @@ Starring is not enough and I need to keep track of why repo has interest. So her
 | [Super Resolution](https://github.com/krasserm/super-resolution) | Clean implementation of multiple SR models with tf.GradientTape |
 | [YOLOv3](https://github.com/zzh8829/yolov3-tf2) | YOLOv3 implementation with nice definition of backbone, head and loss |
 | [BERT](https://github.com/kpe/bert-for-tf2) | tf.keras.Layer implementation of BERT (embeddings, attention) |
+| [Keras-FewShotLearning](https://github.com/few-shot-learning/Keras-FewShotLearning) | Playground for few shot learning classification |
