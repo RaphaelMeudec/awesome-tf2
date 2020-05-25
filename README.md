@@ -23,3 +23,10 @@ Starring is not enough and I need to keep track of why repo has interest. So her
 | Github Project          | Why                                   |
 | :--------------------:  | :-----------------------------------: |
 | [TensorFlow Determinism](https://github.com/NVIDIA/tensorflow-determinism) | Determinism and non-determinism at GPU level (from NVidia) |
+| [tf-explain](https://www.github.com/sicara/tf-explain) | Intepretability of DL models for TF2.x |
+
+## Courses
+
+| Github Project          | Why                                   |
+| :---------------------: | :-----------------------------------: |
+| [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) | Recipes for TF2.x |
